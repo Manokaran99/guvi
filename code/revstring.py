@@ -1,3 +1,3 @@
 doknow=input()
-donotknow=doknow[::-1}
+donotknow=doknow[::-1]
 print(donotknow)
