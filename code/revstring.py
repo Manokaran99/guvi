@@ -1,2 +1,3 @@
-z=input()
-print(z[::-1])
+doknow=input()
+donotknow=doknow[::-1}
+print(donotknow)
